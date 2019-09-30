@@ -1,0 +1,13 @@
+---
+- disks:
+    - /dev/sdb 1
+    - /dev/sdb 2
+    - /dev/sdb 3
+    - /dev/sdb 4
+    - /dev/sdb 5
+    - /dev/sdb 6
+    - /dev/sdb 7
+    - /dev/sdb 8
+  
+    
+
